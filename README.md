@@ -1,5 +1,3 @@
-# Sentimant_Arabic_analysis
-
 # Arabic Sentiment Analysis
 
 This project performs sentiment analysis on Arabic text using a machine learning pipeline. It demonstrates preprocessing, model training, and evaluation to classify sentiments effectively.
